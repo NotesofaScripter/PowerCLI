@@ -1,6 +1,8 @@
 # PowerCLI
 PowerCLI Repository
 
+Disclaimer: Be aware that all scripts are run at your own risk and while every script has been written with the intention of minimising the potential for unintended consequences, the owners, hosting providers and contributers cannot be held responsible for any misuse or script problems.
+
 This is where I will place all of the PowerCLI related scripts from NotesofaScripter.com.
 
 02/23/2016 - Added script - http://notesofascripter.com/2015/09/22/how-to-use-powercli-to-update-the-ntp-servers-on-all-vmhosts-at-once/
