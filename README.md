@@ -14,3 +14,5 @@ This is where I will place all of the PowerCLI related scripts from NotesofaScri
 02/26/2016 - Added csv - http://notesofascripter.com/2015/11/23/powercli-to-add-new-port-group-to-all-vmhosts-in-single-cluster/
 
 02/26/2016 - Added script - http://notesofascripter.com/2015/11/16/powercli-to-get-list-of-unused-rdms-on-vm-cluster-updated/
+
+03/04/2016 - Added script -   http://notesofascripter.com/2016/03/04/get-free-space-of-all-datastores-with-powercli/
