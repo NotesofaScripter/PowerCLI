@@ -22,3 +22,5 @@ This is where I will place all of the PowerCLI related scripts from NotesofaScri
 03/28/2016 - Added script -  http://notesofascripter.com/2016/03/28/using-powercli-build-multiple-vms/
 
 04/05/2016 - Added script -  http://notesofascripter.com/2016/04/05/using-powercli-s…ate-vmware-tools/
+
+10/03/2016 - Added script - http://notesofascripter.com/2016/10/03/setting-vmware-tools-shared-product-locker-powershell/
