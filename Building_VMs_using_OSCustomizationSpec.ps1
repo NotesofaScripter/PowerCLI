@@ -1,4 +1,4 @@
-﻿$vms = Import-CSV "C:\Scripts\VMWare\VM Creation\NewVMs.csv" | Select -last 18
+﻿$vms = Import-CSV "C:\Scripts\VMWare\VM Creation\NewVMs.csv"
 $credOSC = Get-Credential
  
 foreach ($vm in $vms){
