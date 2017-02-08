@@ -24,3 +24,7 @@ This is where I will place all of the PowerCLI related scripts from NotesofaScri
 04/05/2016 - Added script -  http://notesofascripter.com/2016/04/05/using-powercli-s…ate-vmware-tools/
 
 10/03/2016 - Added script - http://notesofascripter.com/2016/10/03/setting-vmware-tools-shared-product-locker-powershell/
+
+02/08/2017 - Added script - http://notesofascripter.com/2017/02/07/building-vms-using-oscustomizationspec/
+
+02/08/2017 - Added csv - http://notesofascripter.com/2017/02/07/building-vms-using-oscustomizationspec/
